@@ -47,7 +47,102 @@
     resposta:
       php: php
 
-- exercicio02:
-    pergunta: Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).15) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+- exercicio10:
+    pergunta: Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+    resposta:
+      php: php
+
+- exercicio11: 
+    pergunta: As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
+    resposta:
+      php: php
+
+- exercicio12:  
+    pergunta: Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada.
+    resposta:
+      php: php
+
+- exercicio13:  
+    pergunta: Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
+    resposta:
+      php: php
+
+- exercicio14:  
+    pergunta: Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles. 
+    resposta:
+      php: php
+
+- exercicio15:  
+    pergunta: Ler dois valores (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
+    resposta:
+      php: php
+
+- exercicio16:    
+    pergunta: Ler a hora de início e a hora de fim de um jogo de Xadrez (considere apenas horas inteiras, sem os minutos) e calcule a duração do jogo em horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
+    resposta:
+      php: php
+
+- exercicio17:  
+    pergunta: A jornada de trabalho semanal de um funcionário é de 40 horas. O funcionário que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da hora regular com um acréscimo de 50%. Escreva um algoritmo que leia o número de horas trabalhadas em um mês, o salário por hora e escreva o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas (considere que o mês possua 4 semanas exatas).
+    resposta:
+      php: php
+
+- exercicio18:  
+    pergunta: Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa. Sabendo-se que ele recebe uma comissão de 3% sobre o total das vendas até R$ 1.500,00 mais 5% sobre o que ultrapassar este valor, calcular e escrever o seu salário total.
+    resposta:
+      php: php
+
+- exercicio19:  
+    pergunta: Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
+    resposta:
+      php: php
+
+- exercicio20:  
+    pergunta: Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'.
+    resposta:
+      php: php
+
+- exercicio21:  
+    pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
+    resposta:
+      php: php
+
+- exercicio22:  
+    pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
+    resposta:
+      php: php
+
+- exercicio23:  
+    pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em ordem crescente.
+    resposta: 
+      php: php
+
+- exercicio24:  
+    pergunta: Ler 3 valores (A, B e C) representando as medidas dos lados de um triângulo e escrever se formam ou não um triângulo. OBS: para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados.
+    resposta:
+      php: php
+
+- exercicio25:  
+    pergunta: Ler o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.
+    resposta:
+      php: php
+
+- exercicio26:  
+    pergunta: Ler dois valores e imprimir uma das três mensagens a seguir:    `Números iguais', caso os números sejam iguais,`Primeiro é maior', caso o primeiro seja maior que o segundo;`Segundo maior', caso o segundo seja maior que o primeiro.
+    resposta:
+      php: php
+
+- exercicio27:  
+    pergunta: Faça um algoritmo para ler um número que é um código de usuário. Caso este código seja diferente de um código armazenado internamente no algoritmo (igual a 1234) deve ser apresentada a mensagem `Usuário inválido!'. Caso o Código seja correto, deve ser lido outro valor que é a senha. Se esta senha estiver incorreta (a certa é 9999) deve ser mostrada a mensagem `senha incorreta'. Caso a senha esteja correta, deve ser mostrada a mensagem `Acesso permitido'.
+    resposta:
+      php: php
+
+- exercicio28:  
+    pergunta: Escreva um algoritmo para ler 2 valores e se o segundo valor informado for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser aceito o valor zero e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido. (utilizar a estrutura REPITA).
+    resposta:
+      php: php
+
+- exercicio29:  
+    pergunta: Ler 10 valores e escrever quantos desses valores lidos estão no intervalo [10,20] (inlcuindo os valores 10 e 20 no intervalo) e quantos deles estão fora deste intervalo.
     resposta:
       php: php

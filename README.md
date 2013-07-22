@@ -24,5 +24,12 @@ Linguagens:
 * Python
 * Javascript (ecmascript)
 * C
+* Outras linguagem podem ser adicionadas(sem aviso)
+
+A fazer:
+--------
+
+* Incluir 1000 questões.
+* responder todas as questões em pelo menos 4 linguagens diferentes.
 
 contato: wouerner@gmail.com
