@@ -29,7 +29,7 @@ Linguagens:
 A fazer:
 --------
 
-* Incluir 1000 questões.
+* Incluir 50 questões.
 * responder todas as questões em pelo menos 4 linguagens diferentes.
 
 contato: wouerner@gmail.com

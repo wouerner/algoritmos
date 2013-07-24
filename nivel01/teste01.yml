@@ -8,7 +8,7 @@
 - exercicio02:
     pergunta: Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
     resposta:
-      php:  respostas/php/exercicio02.php
+      php: respostas/php/exercicio02.php
       python: respostas/python/exercicio02.py
 
 - exercicio03:
@@ -144,5 +144,113 @@
 
 - exercicio29:  
     pergunta: Ler 10 valores e escrever quantos desses valores lidos estão no intervalo [10,20] (inlcuindo os valores 10 e 20 no intervalo) e quantos deles estão fora deste intervalo.
+    resposta:
+      php: php
+
+- exercicio30:  
+    pergunta: Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+    resposta:
+      php: php
+
+- exercicio31:  
+    pergunta: Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+    resposta:
+      php: php
+
+- exercicio32:  
+    pergunta: Faça um Programa que peça as 4 notas bimestrais e mostre a média. 
+    resposta:
+      php: php
+
+- exercicio33:  
+    pergunta: Faça um Programa que converta metros para centímetros.
+    resposta: 
+      php: php
+
+- exercicio34:  
+    pergunta: Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+    resposta:
+      php: php
+
+- exercicio35:  
+    pergunta: Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+o produto do dobro do primeiro com metade do segundo .
+a soma do triplo do primeiro com o terceiro.
+o terceiro elevado ao cubo.
+    resposta:
+      php: php
+
+- exercicio36:  
+    pergunta: Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+    resposta:
+      php: php
+
+- exercicio37:  
+    pergunta: Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+    resposta:
+      php: php
+
+- exercicio38:  
+    pergunta: Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+    resposta:
+      php: php
+
+- exercicio39:  
+    pergunta: Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+    resposta:
+      php: php
+
+- exercicio40:  
+    pergunta: Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+    resposta:
+      php: php
+
+- exercicio41:  
+    pergunta: Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
+    resposta:
+      php: php
+
+- exercicio42:  
+    pergunta: Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.  
+    resposta:
+      php: php
+
+- exercicio43:  
+    pergunta: Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+    resposta:
+      php: php
+
+- exercicio44:
+    pergunta: Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
+    resposta:
+      php: php
+
+- exercicio45:  
+    pergunta: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+    resposta:
+      php: php
+
+- exercicio46:  
+    pergunta: Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
+    resposta:
+      php: php
+
+- exercicio47:  
+    pergunta: Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.
+    resposta:
+      php: php
+
+- exercicio48:  
+    pergunta: Faça um programa que calcule o mostre a média aritmética de N notas. 
+    resposta:
+      php: php
+
+- exercicio49:  
+    pergunta: Faça um Programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores
+    resposta:
+      php: php
+
+- exercicio50:  
+    pergunta: Foram anotadas as idades e alturas de 30 alunos. Faça um Programa que determine quantos alunos com mais de 13 anos possuem altura inferior à média de altura desses alunos.
     resposta:
       php: php
