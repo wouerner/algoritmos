@@ -1,3 +1,4 @@
+#include <stdio.h>
 //funcao principal 
 int main(){
 	
@@ -12,13 +13,26 @@ int main(){
 	//atribuindo o valor de a a variavel auxiliar
 	aux = a;
 
+	printf("Valor inicial de a: %d", a);
+	//quebra de linha
+	printf("\n");
+	//impressao de b
+	printf("Valor inicial de b: %d", b);
+	//quebra de linha
+	printf("\n");
+
 	//damos o valor de b para a e da variavel auxiliar, que guarda o valor inicial de a, para b
 	a = b;
 	b = aux;
 
-	//impressao dos valores
-	printf("Valor de a: %d", a);
-	printf("Valor de b: %d". b);
+	//impressao do valor de a
+	printf("Valor final de a: %d", a);
+	//quebra de linha
+	printf("\n");
+	//impressao de b
+	printf("Valor final de b: %d", b);
+	//quebra de linha
+	printf("\n");
 
 	//retorno e fim da funcao
 	return 0;
