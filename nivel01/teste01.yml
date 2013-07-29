@@ -4,6 +4,7 @@
     resposta:
       php: respostas/php/exercicio01.php
       python: respostas/python/exercicio01.py
+      c: respostas/c/exercicio01.c
 
 - exercicio02:
     pergunta: Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
