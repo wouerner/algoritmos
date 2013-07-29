@@ -1,4 +1,6 @@
+//inclusao da biblioteca input/output
 #include <stdio.h>
+
 //funcao principal 
 int main(){
 	
