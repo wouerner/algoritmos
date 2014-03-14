@@ -1,47 +1,48 @@
 - exercicio01:
-    pergunta: Escreva um algoritmo que armazene o valor 10 em uma variável A e o valor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis.  
+    pergunta: Escreva um algoritmo que armazene o valor 10 em uma variável A e o valor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis.
     dificuldade: 1
     resposta:
       php: respostas/php/exercicio01.php
       python: respostas/python/exercicio01.py
       c: respostas/c/exercicio01.c
-
+      ruby: respostas/ruby/exercicio01.rb
 - exercicio02:
     pergunta: Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
     resposta:
       php: respostas/php/exercicio02.php
       python: respostas/python/exercicio02.py
       c: respostas/c/exercicio05.c
-
-
+      ruby: respostas/ruby/exercicio02.rb
 - exercicio03:
     pergunta: Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
     resposta:
       php: phprespostas/php/exercicio03.php
       python: respostas/python/exercicio03.py
       c: respostas/c/exercicio05.c
-
+      ruby: respostas/ruby/exercicio03.rb
 - exercicio04:
     pergunta: Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
     resposta:
       php: respostas/php/exercicio04.php
       c: respostas/c/exercicio05.c
-
+      ruby: respostas/ruby/exercicio04.rb
 - exercicio05:
     pergunta: Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
     resposta:
       php: respostas/php/exercicio05.php
       c: respostas/c/exercicio05.c
-
+      ruby: respostas/ruby/exercicio05.rb
 - exercicio06:
     pergunta: Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
     resposta:
       php: respostas/php/exercicio06.php
+      ruby: respostas/ruby/exercicio06.rb
 
 - exercicio07:
     pergunta: O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e escrever o custo final ao consumidor.
     resposta:
       php: respostas/php/exercicio07.php
+      ruby: respostas/ruby/exercicio07.rb
 
 - exercicio08:
     pergunta: Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. Escrever um algoritmo que leia o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e escreva o salário final do vendedor.
@@ -58,127 +59,127 @@
     resposta:
       php: respostas/php/exercicio10.php
 
-- exercicio11: 
+- exercicio11:
     pergunta: As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
     resposta:
       php: php
 
-- exercicio12:  
+- exercicio12:
     pergunta: Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada.
     resposta:
       php: php
 
-- exercicio13:  
+- exercicio13:
     pergunta: Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
     resposta:
       php: php
 
-- exercicio14:  
-    pergunta: Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles. 
+- exercicio14:
+    pergunta: Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles.
     resposta:
       php: php
 
-- exercicio15:  
+- exercicio15:
     pergunta: Ler dois valores (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
     resposta:
       php: php
 
-- exercicio16:    
+- exercicio16:
     pergunta: Ler a hora de início e a hora de fim de um jogo de Xadrez (considere apenas horas inteiras, sem os minutos) e calcule a duração do jogo em horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
     resposta:
       php: php
 
-- exercicio17:  
+- exercicio17:
     pergunta: A jornada de trabalho semanal de um funcionário é de 40 horas. O funcionário que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da hora regular com um acréscimo de 50%. Escreva um algoritmo que leia o número de horas trabalhadas em um mês, o salário por hora e escreva o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas (considere que o mês possua 4 semanas exatas).
     resposta:
       php: php
 
-- exercicio18:  
+- exercicio18:
     pergunta: Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa. Sabendo-se que ele recebe uma comissão de 3% sobre o total das vendas até R$ 1.500,00 mais 5% sobre o que ultrapassar este valor, calcular e escrever o seu salário total.
     resposta:
       php: php
 
-- exercicio19:  
+- exercicio19:
     pergunta: Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
     resposta:
       php: php
 
-- exercicio20:  
+- exercicio20:
     pergunta: Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'.
     resposta:
       php: php
 
-- exercicio21:  
+- exercicio21:
     pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
     resposta:
       php: php
 
-- exercicio22:  
+- exercicio22:
     pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
     resposta:
       php: php
 
-- exercicio23:  
+- exercicio23:
     pergunta: Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em ordem crescente.
-    resposta: 
+    resposta:
       php: php
 
-- exercicio24:  
+- exercicio24:
     pergunta: Ler 3 valores (A, B e C) representando as medidas dos lados de um triângulo e escrever se formam ou não um triângulo. OBS: para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados.
     resposta:
       php: php
 
-- exercicio25:  
+- exercicio25:
     pergunta: Ler o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.
     resposta:
       php: php
 
-- exercicio26:  
+- exercicio26:
     pergunta: Ler dois valores e imprimir uma das três mensagens a seguir:    `Números iguais', caso os números sejam iguais,`Primeiro é maior', caso o primeiro seja maior que o segundo;`Segundo maior', caso o segundo seja maior que o primeiro.
     resposta:
       php: php
 
-- exercicio27:  
+- exercicio27:
     pergunta: Faça um algoritmo para ler um número que é um código de usuário. Caso este código seja diferente de um código armazenado internamente no algoritmo (igual a 1234) deve ser apresentada a mensagem `Usuário inválido!'. Caso o Código seja correto, deve ser lido outro valor que é a senha. Se esta senha estiver incorreta (a certa é 9999) deve ser mostrada a mensagem `senha incorreta'. Caso a senha esteja correta, deve ser mostrada a mensagem `Acesso permitido'.
     resposta:
       php: php
 
-- exercicio28:  
+- exercicio28:
     pergunta: Escreva um algoritmo para ler 2 valores e se o segundo valor informado for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser aceito o valor zero e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido. (utilizar a estrutura REPITA).
     resposta:
       php: php
 
-- exercicio29:  
+- exercicio29:
     pergunta: Ler 10 valores e escrever quantos desses valores lidos estão no intervalo [10,20] (inlcuindo os valores 10 e 20 no intervalo) e quantos deles estão fora deste intervalo.
     resposta:
       php: php
 
-- exercicio30:  
-    pergunta: Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+- exercicio30:
+    pergunta: Faça um Programa que mostre a mensagem "Alo mundo" na tela.
     resposta:
       php: php
 
-- exercicio31:  
+- exercicio31:
     pergunta: Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
     resposta:
       php: php
 
-- exercicio32:  
-    pergunta: Faça um Programa que peça as 4 notas bimestrais e mostre a média. 
+- exercicio32:
+    pergunta: Faça um Programa que peça as 4 notas bimestrais e mostre a média.
     resposta:
       php: php
 
-- exercicio33:  
+- exercicio33:
     pergunta: Faça um Programa que converta metros para centímetros.
-    resposta: 
+    resposta:
       php: php
 
-- exercicio34:  
+- exercicio34:
     pergunta: Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
     resposta:
       php: php
 
-- exercicio35:  
+- exercicio35:
     pergunta: Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 o produto do dobro do primeiro com metade do segundo .
 a soma do triplo do primeiro com o terceiro.
@@ -186,42 +187,42 @@ o terceiro elevado ao cubo.
     resposta:
       php: php
 
-- exercicio36:  
+- exercicio36:
     pergunta: Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
     resposta:
       php: php
 
-- exercicio37:  
+- exercicio37:
     pergunta: Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
     resposta:
       php: php
 
-- exercicio38:  
+- exercicio38:
     pergunta: Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
     resposta:
       php: php
 
-- exercicio39:  
+- exercicio39:
     pergunta: Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
     resposta:
       php: php
 
-- exercicio40:  
+- exercicio40:
     pergunta: Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
     resposta:
       php: php
 
-- exercicio41:  
+- exercicio41:
     pergunta: Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
     resposta:
       php: php
 
-- exercicio42:  
-    pergunta: Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.  
+- exercicio42:
+    pergunta: Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
     resposta:
       php: php
 
-- exercicio43:  
+- exercicio43:
     pergunta: Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
     resposta:
       php: php
@@ -231,32 +232,32 @@ o terceiro elevado ao cubo.
     resposta:
       php: php
 
-- exercicio45:  
+- exercicio45:
     pergunta: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
     resposta:
       php: php
 
-- exercicio46:  
+- exercicio46:
     pergunta: Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
     resposta:
       php: php
 
-- exercicio47:  
+- exercicio47:
     pergunta: Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.
     resposta:
       php: php
 
-- exercicio48:  
-    pergunta: Faça um programa que calcule o mostre a média aritmética de N notas. 
+- exercicio48:
+    pergunta: Faça um programa que calcule o mostre a média aritmética de N notas.
     resposta:
       php: php
 
-- exercicio49:  
+- exercicio49:
     pergunta: Faça um Programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores
     resposta:
       php: php
 
-- exercicio50:  
+- exercicio50:
     pergunta: Foram anotadas as idades e alturas de 30 alunos. Faça um Programa que determine quantos alunos com mais de 13 anos possuem altura inferior à média de altura desses alunos.
     resposta:
       php: php
